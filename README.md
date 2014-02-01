@@ -1,4 +1,4 @@
 atfGenerator
 ============
 
-ATF generator tool simplifies work with png2atf tool via graphic interface.
+ATF generator simplifies work with png2atf tool via graphic interface.
